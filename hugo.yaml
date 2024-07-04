@@ -51,7 +51,7 @@ languages:
       description: A Docsy example site
   # cSpell:disable
   vi
-  languageName ="Tiếng Việt"
+    languageName = Vietnamese
     contentDir:content/vi
     title = VNIT docs
     params:
