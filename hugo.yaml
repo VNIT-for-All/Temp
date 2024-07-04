@@ -40,7 +40,7 @@ permalinks:
 imaging:
   resampleFilter: CatmullRom
   quality: 75
-  anchor: smart
+  anchor: Smart
 
 # Language configuration
 languages:
@@ -50,14 +50,14 @@ languages:
     params:
       description: A Docsy example site
   # cSpell:disable
-  vi
-    languageName = Vietnamese
-    contentDir:content/vi
-    title = VNIT docs
+  vi:
+    languageName: Vietnamese
+    contentDir: content/vi
+    title: "VNIT docs"
     params:
-      description = "Một trang Docsy mẫu"
-      time_format_default = "02.01.2006"
-      time_format_blog = "02.01.2006"
+      description: Một trang Docsy mẫu
+      time_format_default: "02.01.2006"
+      time_format_blog: "02.01.2006"
   'no':
     languageName: Norsk
     contentDir: content/no
