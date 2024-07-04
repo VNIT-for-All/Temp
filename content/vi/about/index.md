@@ -6,17 +6,17 @@ menu: {main: {weight: 10}}
 
 {{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
 
-Trang web maaux sử  Docsy Hugo theme.
+Trang web mẫu dùng Docsy Hugo theme.
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+Goldydocs là một trang web mẫu sử dụng [Docsy](https://github.com/google/docsy)
+Chủ đề Hugo cho thấy những gì nó có thể làm và cung cấp cho bạn một trang web mẫu
+kết cấu. Nó được thiết kế để bạn sao chép và chỉnh sửa bao nhiêu tùy thích. Xem
+các phần khác nhau của tài liệu và trang web để có thêm ý tưởng.
 
 {{% /blocks/lead %}}
 
