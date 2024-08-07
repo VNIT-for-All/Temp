@@ -1,11 +1,11 @@
 baseURL: https://vnit.netlify.app
-title: Goldydocs
+title: VNIT
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
-contentDir: content/en
-defaultContentLanguage: en
+contentDir: content/vi
+defaultContentLanguage: vi
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
@@ -46,7 +46,7 @@ imaging:
 languages:
   en:
     languageName: English
-    title: Goldydocs
+    title: "VNIT docs"
     params:
       description: A Docsy example site
   # cSpell:disable
@@ -114,7 +114,7 @@ params:
   url_latest_version: https://example.com
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/VNIT-for-All/Temp/issue
+  github_repo: https://github.com/VNIT-for-All/Temp
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
   github_project_repo: https://github.com/VNIT-for-All/Temp
