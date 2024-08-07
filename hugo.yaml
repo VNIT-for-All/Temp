@@ -4,8 +4,8 @@ title: VNIT
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
-contentDir: content/vi
-defaultContentLanguage: vi
+contentDir: content/en
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
